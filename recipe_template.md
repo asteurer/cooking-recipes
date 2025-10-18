@@ -1,6 +1,6 @@
 # {{ Recipe Name }}
-- Adult Servings: 0
-- Dish Type: {{ Dessert | Ingredient | Main | Side }}
+- Servings: 0
+- Dish Type: {{ Dessert | Ingredient | Main | Side | Beverage }}
 
 ## Ingredients
 ### Dairy & Eggs
