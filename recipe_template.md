@@ -1,5 +1,5 @@
 # {{ Recipe Name }}
-- Serving Size: 0
+- Adult Servings: 0
 - Dish Type: {{ Dessert | Ingredient | Main | Side }}
 
 ## Ingredients
