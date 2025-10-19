@@ -1,6 +1,6 @@
 # Minestrone Soup
-- Servings: 4-6 Adults
-- Dish Type: Main
+- Servings: 4-6 adults
+- Dish Type: main
 
 ## Ingredients
 ### Meat & Seafood

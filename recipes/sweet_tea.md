@@ -1,6 +1,6 @@
 # Sweet Tea
-- Servings: Makes roughly 0.5 gallons
-- Dish Type: Beverage
+- Servings: makes roughly 0.5 gallons
+- Dish Type: beverage
 
 ## Ingredients
 ### Other
