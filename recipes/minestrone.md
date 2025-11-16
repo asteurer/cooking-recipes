@@ -26,3 +26,6 @@
 1. Brown onion, sausage, bacon, and garlic.
 2. Add 4 cups of water and remaining ingredients (_**excluding zucchini/squash**_) and simmer uncovered for 45 minutes.
 3. Add zucchini/squash and simmer for 15 more minutes.
+
+## Additional Notes
+I like to serve this with rice.
